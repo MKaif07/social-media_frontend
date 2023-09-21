@@ -20,7 +20,7 @@ const AdvertWidget = () => {
         width="100%"
         height="auto"
         alt="advert"
-        src="https://social-media-backend-jeit.vercel.app/assets/info4.jpeg"
+        src="https://social-media-backend-eta.vercel.app/assets/info4.jpeg"
         style={{ borderRadius: "0.75rem", margin: "0.75rem 0" }}
       />
       <FlexBetween>
